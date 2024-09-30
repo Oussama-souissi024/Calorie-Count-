@@ -1,0 +1,6 @@
+@Calorie_countAPI_HostAddress = http://localhost:5285
+
+GET {{Calorie_countAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

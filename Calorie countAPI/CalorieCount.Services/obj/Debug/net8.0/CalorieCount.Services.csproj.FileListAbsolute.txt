@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\bin\Debug\net8.0\CalorieCount.Services.deps.json
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\bin\Debug\net8.0\CalorieCount.Services.dll
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\bin\Debug\net8.0\CalorieCount.Services.pdb
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\bin\Debug\net8.0\CalorieCount.Core.dll
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\bin\Debug\net8.0\CalorieCount.Core.pdb
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\obj\Debug\net8.0\CalorieCount.Services.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\obj\Debug\net8.0\CalorieCount.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\obj\Debug\net8.0\CalorieCount.Services.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\obj\Debug\net8.0\CalorieCount.Services.AssemblyInfo.cs
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\obj\Debug\net8.0\CalorieCount.Services.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\obj\Debug\net8.0\CalorieC.0B82B631.Up2Date
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\obj\Debug\net8.0\CalorieCount.Services.dll
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\obj\Debug\net8.0\refint\CalorieCount.Services.dll
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\obj\Debug\net8.0\CalorieCount.Services.pdb
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\obj\Debug\net8.0\ref\CalorieCount.Services.dll
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\bin\Debug\net8.0\CalorieCount..Infrastructure.dll
+C:\Users\admin\Desktop\Calorie Count API Dot Net Project\Calorie countAPI\CalorieCount.Services\bin\Debug\net8.0\CalorieCount..Infrastructure.pdb

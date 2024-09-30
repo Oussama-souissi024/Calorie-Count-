@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "IbeWwhdg1IpI08UHhfDou5ECrkRlc5s9Ob2nF0IFLVU=",
+  "Source": "Calorie countAPI",
+  "BasePath": "_content/Calorie countAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Calorie countAPI\\wwwroot",
+      "Source": "Calorie countAPI",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Calorie Count API Dot Net Project\\Calorie countAPI\\Calorie countAPI\\wwwroot\\",
+      "BasePath": "_content/Calorie countAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\admin\\Desktop\\Calorie Count API Dot Net Project\\Calorie countAPI\\Calorie countAPI\\wwwroot\\reset-password.html",
+      "SourceId": "Calorie countAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\Desktop\\Calorie Count API Dot Net Project\\Calorie countAPI\\Calorie countAPI\\wwwroot\\",
+      "BasePath": "_content/Calorie countAPI",
+      "RelativePath": "reset-password.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reset-password.html"
+    }
+  ]
+}
